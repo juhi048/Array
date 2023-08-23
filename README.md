@@ -1,3 +1,3 @@
 # Array
 
-Implementation and some basic as well as gfg leetcode question
+Implementation and some related basic as well as gfg leetcode question
